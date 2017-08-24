@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-Gruvbox
+Comment=
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Numix-Gruvbox
+GtkTheme=Numix-Gruvbox
+IconTheme=Numix-Gruvbox
+MetacityTheme=Numix-Gruvbox
