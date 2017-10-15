@@ -17,6 +17,8 @@ mkdir ~/.themes
 cd $SOMEWHERE
 git clone https://github.com/Nicholas-Horton/Numix-Gruvbox.git
 ln -s $(pwd)/Numix-Gruvbox ~/.themes/Numix-Gruvbox
+cd ~/.themes/Numix-Gruvbox
+make
 
 ```
 
