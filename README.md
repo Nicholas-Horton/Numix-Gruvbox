@@ -8,6 +8,8 @@ Either clone the repository directly into ~/.themes
 mkdir ~/.themes
 cd ~/.themes
 git clone https://github.com/Nicholas-Horton/Numix-Gruvbox.git
+cd ~/.themes/Numix-Gruvbox
+make
 
 ```
 
